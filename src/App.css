@@ -1,0 +1,21 @@
+@import url('https://fonts.cdnfonts.com/css/montserrat');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#root {
+  height: 100%;
+}
+
+.logo.vite:hover {
+  filter: drop-shadow(0 0 2em #747bff);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafb);
+}
+
+.logo.vue:hover {
+  filter: drop-shadow(0 0 2em #41b883);
+}
