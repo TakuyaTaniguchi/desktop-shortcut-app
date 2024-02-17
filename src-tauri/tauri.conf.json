@@ -7,7 +7,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "tauri-sample-app",
+    "productName": "desktop-shortcut-app",
     "version": "0.0.0"
   },
   "tauri": {
